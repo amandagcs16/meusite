@@ -1,0 +1,42 @@
+body {
+    background-color: #EDE8DC;
+}
+
+h1 {
+    color: #355E3B;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    border-radius: 15px;
+}
+
+table {
+  width: 100%;                
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  background-color: #8AA281;
+  color: #1f211e;
+}
+
+a:hover{
+    color: #4C9166;
+}
+
+img, table, a {
+    margin-bottom: 40px;
+}
